@@ -10,8 +10,7 @@
 
 
 
-
-<div class="box-row1">
+<div class="position-absolute">
 
       <h2>Camomile Tea</h2>
       <h4>-by Katherine Mansfield</h4>
@@ -29,6 +28,7 @@
         The wind is shaking the almond tree.
       <br>
       <br>
+      
 
       <div class="imag relative ">
         <img src="IMG_0392.jpeg">
@@ -45,7 +45,7 @@
       <br>
       <br>
 
-<div class="box-row1">
+<div class="position-absolute">
         Light
       <br>
       as feathers the witches fly,
