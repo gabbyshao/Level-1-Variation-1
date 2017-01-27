@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+	<head>
+  <style type"text/css">
+
+.red{
+color:white
+}
+.italic{
+font-style:italic
+}
+.spacing{
+padding:5px 10px
+}
+#orange{
+  color:red
+}
+#green{
+  color: green
+}
+#black{
+  color:black
+}
+
+
+.relative{
+  height:300px;
+  width:300px;
+  background-color:#dadada;
+  position:relative;
+  top:100px;
+  left:150px;
+}
+
+.fixed{
+	height:300px;
+	width:300px;/
+
+}
+
+.static{
+	height:300px;
+	width:300px;
+	background-color:#dadada;
+	position:static;
+}
+
+.horizontal-center{
+	height:300px;
+	width:300px;
+	background-color:#dadada;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+}
+
+
+
+container{
+	width:80px
+	overflow:auto;
+	border;1px solid blue
+}
+
+imag{
+	float:left;
+	width;50px;
+	height:50px;
+	margin:20px;
+}
+
+</style>
+
+<body>
+
+	<div class="horizontal-center">
+			<img src="IMG_0392.jpeg"
+
+<p class="red italic spacing relative static container">
+
+Some one once described jean.........
+</p>
+
+<p>
+SO heres a case that aesthetic strength comes from .......
+</p>
+	</div>
+</head>
+</body>
+</html>

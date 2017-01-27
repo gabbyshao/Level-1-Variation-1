@@ -1,0 +1,52 @@
+
+
+.box-1{
+	float: left;
+	width: 300px;
+	height: 300px;
+	margin: 25px;
+
+}
+
+p{
+	color=red;
+}
+
+
+.box-row1{
+	display: inline-block;
+	background-color: #blue;
+	width: 600px;
+	height: 350px;
+	margin:40px;
+	border: 5px solid black;
+}
+
+.box-row2{
+	display: inline-block;
+	background-color: #white;
+	width: 500px;
+	height: 400px;
+	margin:300px;80px;
+	border: 5px solid black;
+}
+
+.relative{
+  height:300px;
+  width:300px;
+  background-color:#white;
+  position:relative;
+  top:100px;
+  left:500px;
+}
+
+img{
+	float:left;
+
+	width: 250px;
+
+	height: 250px;
+
+	margin: 100px;
+
+ }
