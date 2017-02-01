@@ -28,10 +28,7 @@
         The wind is shaking the almond tree.
       <br>
       <br>
-      
 
-      <div class="imag relative ">
-        <img src="IMG_0392.jpeg">
 
         How little I thought, a year ago,
       <br>
@@ -44,6 +41,10 @@
         camomile tea.
       <br>
       <br>
+
+      <div class="imag relative ">
+        <img src="IMG_0392.jpeg">
+
 
 <div class="position-absolute">
         Light
